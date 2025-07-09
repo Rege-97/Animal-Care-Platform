@@ -234,7 +234,7 @@ Animal-Care-Platform 구현 중 실무에서 마주칠 수 있는
 - 배포 환경에 따라 `localhost` 기반 API URL을 실제 EC2 Public IP로 변경
 - `mapKey.properties` 파일을 통한 Kakao 지도 API Key 설정 분리
 
-- ## 📈 결과 & 회고
+## 📈 결과 & 회고
 
 
 ### 🚀 성과 요약
