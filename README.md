@@ -1,6 +1,7 @@
 ![logo3](https://github.com/user-attachments/assets/645542d9-b9f1-4a11-b780-a408254bf475)
 > 전국 유기동물 보호소와 입양자, 후원자를 연결하는 통합 관리 플랫폼
 
+**[Notice] 현재 AWS 배포 서버는 비용 문제로 인해 운영이 중단되었습니다.**
 [![배포링크](https://img.shields.io/badge/배포링크-EC2%20%7C%209090-brightgreen?style=for-the-badge)](http://15.165.161.106:9090/care/)
 
 ## 📌 프로젝트 개요
@@ -267,5 +268,6 @@ Animal-Care-Platform 구현 중 실무에서 마주칠 수 있는
 
 > 단순히 구현만 하는 프로젝트가 아니라,  
 > **"기획 → 설계 → 구현 → 운영" 전체 사이클을 실제처럼 겪은 경험**이었습니다.
+
 
 
